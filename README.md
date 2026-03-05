@@ -2,35 +2,35 @@
 
 # 📺 Alura Plus
 
-Projeto desenvolvido durante o curso da [Alura](https://www.alura.com.br) sobre **HTML e CSS**.  
-O objetivo é criar uma página de divulgação para o serviço fictício **Alura Plus**, aplicando conceitos de estruturação e estilização da web.
+Project developed during the [Alura](https://www.alura.com.br) course on **HTML and CSS**.  
+The goal is to create a promotional page for the fictional service **Alura Plus**, applying concepts of web structuring and styling.
 
-🔗 [Demo do projeto](https://isaercole.github.io/Alura-plus/)
-
----
-
-## 🚀 Tecnologias utilizadas
-- **HTML5** para marcação e estrutura
-- **CSS3** para estilização e layout responsivo
+🔗 [Project Demo](https://isaercole.github.io/Alura-plus/)
 
 ---
 
-## 📂 Estrutura do projeto
-- `index.html` → Página principal
-- `style.css` → Estilos customizados
-- `img/` → Imagens utilizadas no site
+## 🚀 Technologies Used
+- **HTML5** for markup and structure  
+- **CSS3** for styling and responsive layout  
 
 ---
 
-## 🧩 Funcionalidades
-- Página inicial com design moderno e responsivo
-- Seções de destaque para planos e benefícios
-- Layout adaptado para diferentes dispositivos
-- Uso de boas práticas de semântica em HTML
+## 📂 Project Structure
+- `index.html` → Main page  
+- `style.css` → Custom styles  
+- `img/` → Images used on the site  
 
 ---
 
-## ▶️ Como executar
-1. Clone este repositório:
+## 🧩 Features
+- Modern and responsive homepage design  
+- Highlight sections for plans and benefits  
+- Layout adapted for different devices  
+- Use of best practices in HTML semantics  
+
+---
+
+## ▶️ How to Run
+1. Clone this repository:
    ```bash
    git clone https://github.com/IsaErcole/Alura-plus.git
